@@ -26,9 +26,10 @@ $RECYCLE.BIN/
 *~
 .directory
 
-# Archivos temporales de editores
+# Archivos temporales de editores e IDEs
 .vscode/
 .idea/
+.vs/
 *.swp
 *.swo
 *~
@@ -51,3 +52,4 @@ coverage/
 # Archivos específicos del proyecto educativo
 # (mantener archivos de ejemplo y templates)
 !assets/images/.gitkeep
+ 
